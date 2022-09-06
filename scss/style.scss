@@ -148,6 +148,11 @@ body{
              }
              .learn-more{
                  font-weight: 700;
+                 display: inline-block;
+                 
+                 &.pink{
+                 }
+                 
              }
      
              &.egg{
@@ -547,7 +552,7 @@ body{
                      margin:0 0 2vh 0;
                  }
                  .learn-more{
-                     font-weight: 700;
+                  
                  }
          
                  &.egg{

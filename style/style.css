@@ -106,6 +106,7 @@ body .shift .what-we-do .what-we-do-item .what-we-do-paragraph {
 }
 body .shift .what-we-do .what-we-do-item .learn-more {
   font-weight: 700;
+  display: inline-block;
 }
 body .shift .what-we-do .what-we-do-item.egg {
   background: no-repeat center center/cover url("/images/desktop/image-transform.jpg");
@@ -383,9 +384,6 @@ body .shift footer .footer-icons .footer-icon.pinterest {
   }
   body .shift .what-we-do .what-we-do-item .what-we-do-paragraph {
     margin: 0 0 2vh 0;
-  }
-  body .shift .what-we-do .what-we-do-item .learn-more {
-    font-weight: 700;
   }
   body .shift .what-we-do .what-we-do-item.egg {
     background: no-repeat center center/cover url("/images/desktop/image-transform.jpg");
